@@ -10,18 +10,19 @@ navbar_entries:
   url: articles
 
 project_entries:
-  - title: ISO 27001 Portfolio Project
-    desc: Hands-on implementation of an Information Security Management System.
-    url: https://github.com/SantaLauk/ISMS-Portfolio-AIR
 
-  - title: Log Analyzer
-    desc: Python tool for parsing and analysing security logs.
-    url: https://github.com/SantaLauk/Log-Analyzer
+- title: ISO 27001 Portfolio Project
+  desc: Hands-on implementation of an Information Security Management System.
+  url: https://github.com/SantaLauk/ISMS-Portfolio-AIR
 
-  - title: Port Scanner
-    desc: Simple multi-threaded port scanner written in Python.
-    url: https://github.com/SantaLauk/Port-Scanner
-    
+- title: Log Analyzer
+  desc: Python tool for parsing and analysing security logs.
+  url: https://github.com/SantaLauk/Log-Analyzer
+
+- title: Port Scanner
+  desc: Simple multi-threaded port scanner written in Python.
+  url: https://github.com/SantaLauk/Port-Scanner
+
 footer_entries:
 
 - title: homepage
