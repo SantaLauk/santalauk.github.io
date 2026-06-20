@@ -1,43 +1,24 @@
 ---
 layout: post
-title: About Moonwalk
+title: About Me
 ---
 
-Moonwalk is a fast, minimal Jekyll theme built for people who want their writing to look great without fighting their tools.
+# About Me
 
-## Why Moonwalk?
+Hi, I'm Santa.
 
-Most Jekyll themes fall into two camps - either so bare-bones that you spend hours styling, or so bloated with features that your Lighthouse score tanks before you write a single post.
+I'm a cybersecurity professional with a particular interest in information security governance, risk management, emerging technologies, and the intersection of technology and public policy. My goal is to build a career helping organisations understand complex risks and implement practical, effective security solutions.
 
-Moonwalk sits in between. You get a polished reading experience, real dark mode, and a 100/100 Lighthouse score out of the box. No JavaScript frameworks. No build tools. No npm.
+Before transitioning into cybersecurity, I built an international career in research operations and stakeholder engagement, working with researchers, editors, and technical experts from around the world. I currently work at Frontiers, where I coordinate complex workflows and support initiatives related to cybersecurity, artificial intelligence, and digital technologies. I have also represented my organisation at academic conferences and collaborated with experts across multiple disciplines and countries.
 
-## Features
+Alongside my professional work, I have invested heavily in developing practical cybersecurity skills through certifications, hands-on projects, and continuous learning. My areas of interest include ISO/IEC 27001, cyber risk assessment, governance frameworks, regulatory compliance, operational resilience, and European cybersecurity policy. I am particularly fascinated by how emerging technologies such as artificial intelligence are reshaping both the threat landscape and the way organisations approach security.
 
-Everything is opt-in via `_config.yml` - turn on only what you need:
+This website serves as a portfolio of my projects, articles, and learning journey. Here, you'll find independent work on information security management systems, governance documentation, cybersecurity research, and technical experiments, as well as reflections on developments in the cyber ecosystem.
 
-- **Light and dark mode** with system preference detection and a manual toggle
-- **Reading progress bar** so readers know how far along they are
-- **Back-to-top button** for long posts
-- **Table of contents** via `toc: true` in your post's front matter
-- **Code copy button** on every code block
-- **Previous/next post links** at the bottom of each post
-- **GitHub Markdown Alerts** for callouts (NOTE, TIP, WARNING, etc.)
-- **Card layout** for portfolios and project showcases
-- **Tag archive** with clickable, filterable tags
+Outside of cybersecurity, I enjoy learning languages, exploring new technologies, and following developments in international affairs and security. I believe that curiosity and continuous learning are essential qualities in a field that evolves as quickly as cybersecurity.
 
-## Getting started
+Thanks for stopping by.
 
-1. [Fork this repo](https://github.com/abhinavs/moonwalk/fork) or click "Use this template"
-2. Edit `_config.yml` with your name, title, and preferences
-3. Push - GitHub Pages deploys it automatically
-
-For local development, run `bin/bootstrap` to install dependencies, then `bin/start` to preview at `http://127.0.0.1:4000`.
-
-## Design principles
-
-- **Writing first.** Typography, spacing, and contrast are tuned for long-form reading.
-- **No lock-in.** Standard Jekyll. No plugins you can't replace, no proprietary services required.
-- **Performance is a feature.** Every CSS rule earns its place. The entire theme compiles to a few kilobytes.
 
 ## Credits
 
