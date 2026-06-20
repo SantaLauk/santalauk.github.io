@@ -2,16 +2,13 @@ title: Santa Lauk
 author: Santa Lauk
 url: "https://santalauk.github.io"
 baseurl: ""
-description: > # description of the site (multiple lines allowed)
+description: >
 Cybersecurity Governance • Risk Management • AI & Emerging Technologies
 
-Building practical cybersecurity projects and researching European digital resilience, governance, and compliance.
+Building practical cybersecurity projects and researching European
+digital resilience, governance, and compliance.
 
 permalink: /:slug
-
-twitter:
- # username:  # update or delete this
-  card: summary_large_image
 
 theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 # remote_theme: abhinavs/moonwalk
