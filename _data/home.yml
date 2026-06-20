@@ -10,6 +10,7 @@ navbar_entries:
   url: articles
 
 governance_projects:
+
   - title: ISO 27001 Portfolio Project
     desc: Hands-on implementation of an Information Security Management System.
     url: https://github.com/SantaLauk/ISMS-Portfolio-AIR
@@ -19,6 +20,7 @@ governance_projects:
     url: false
 
 technical_projects:
+
   - title: Log Analyzer
     desc: Python tool for parsing and analysing security logs.
     url: https://github.com/SantaLauk/Log-Analyzer
