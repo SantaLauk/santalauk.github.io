@@ -19,9 +19,3 @@ Outside of cybersecurity, I enjoy learning languages, exploring new technologies
 
 Thanks for stopping by.
 
-
-## Credits
-
-Moonwalk started as a fork of [no style, please!](https://github.com/riggraz/no-style-please) by [Riccardo Graziosi](https://riggraz.dev/). It has since grown into its own thing, but the spirit of simplicity remains.
-
-Built and maintained by [Abhinav Saxena](https://www.abhinav.co).
