@@ -1,34 +1,34 @@
 navbar_entries:
 
-* title: About
+- title: About
   url: about
 
-* title: Projects
+- title: Projects
   url: projects
 
-* title: Articles
+- title: Articles
   url: articles
 
 project_entries:
 
-* title: ISO 27001 Portfolio Project
+- title: ISO 27001 Portfolio Project
   desc: Hands-on implementation of an Information Security Management System.
   url: https://github.com/SantaLauk/ISMS-Portfolio-AIR
 
-* title: Log Analyzer
+- title: Log Analyzer
   desc: Python tool for parsing and analysing security logs.
   url: https://github.com/SantaLauk/Log-Analyzer
 
-* title: Port Scanner
+- title: Port Scanner
   desc: Simple multi-threaded port scanner written in Python.
   url: https://github.com/SantaLauk/Port-Scanner
 
 footer_entries:
 
-* title: homepage
+- title: homepage
   url: https://santalauk.github.io/
 
-* title: github
+- title: github
   url: https://github.com/SantaLauk
 
 misc_entries: []
