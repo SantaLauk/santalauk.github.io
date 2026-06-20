@@ -9,24 +9,17 @@ navbar_entries:
 - title: Articles
   url: articles
 
-governance_projects:
-
+project_entries:
   - title: ISO 27001 Portfolio Project
     desc: Hands-on implementation of an Information Security Management System.
     url: https://github.com/SantaLauk/ISMS-Portfolio-AIR
-
-  - title: DORA Gap Assessment
-    desc: Practical assessment of DORA requirements.
-    url: false
-
-technical_projects:
 
   - title: Log Analyzer
     desc: Python tool for parsing and analysing security logs.
     url: https://github.com/SantaLauk/Log-Analyzer
 
   - title: Port Scanner
-    desc: Multi-threaded TCP port scanner written in Python.
+    desc: Simple multi-threaded port scanner written in Python.
     url: https://github.com/SantaLauk/Port-Scanner
     
 footer_entries:
