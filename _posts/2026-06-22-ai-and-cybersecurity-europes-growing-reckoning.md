@@ -170,18 +170,15 @@ enough to matter.
 
 ### Sources 
 
-ENISA. ENISA Threat Landscape 2025. European Union Agency for Cybersecurity, 1 October 2025. 
-ENISA. NIS Investments 2025. European Union Agency for Cybersecurity, 8 December 2025. 
-ENISA. Report on the State of Cybersecurity in the Union. European Union Agency for Cybersecurity, 3 December 
-2024. 
-European Commission. Regulation (EU) 2024/1689 of the European Parliament and of the Council laying down 
-harmonised rules on Artificial Intelligence (EU AI Act). Official Journal of the European Union, 12 July 2024. 
-European Commission. Directive (EU) 2022/2555 of the European Parliament and of the Council on measures for a 
-high common level of cybersecurity across the Union (NIS2 Directive). Official Journal of the European Union, 27 
-December 2022. 
-European Commission. Communication on a Cybersecurity Skills Academy, COM(2023) 207. 18 April 2023. 
-European Commission. Regulation (EU) 2025/38 of the European Parliament and of the Council laying down 
-measures to strengthen solidarity and capacities in the Union (EU Cyber Solidarity Act). 19 December 2024, entered 
-into force 4 February 2025. 
-World Economic Forum. Global Cybersecurity Outlook 2025. World Economic Forum, January 2025. 
+## Sources
+
+* ENISA. *ENISA Threat Landscape 2025*. European Union Agency for Cybersecurity, 1 October 2025.
+* ENISA. *NIS Investments 2025*. European Union Agency for Cybersecurity, 8 December 2025.
+* ENISA. *Report on the State of Cybersecurity in the Union*. European Union Agency for Cybersecurity, 3 December 2024.
+* European Commission. *Regulation (EU) 2024/1689 of the European Parliament and of the Council laying down harmonised rules on Artificial Intelligence (EU AI Act).* Official Journal of the European Union, 12 July 2024.
+* European Commission. *Directive (EU) 2022/2555 of the European Parliament and of the Council on measures for a high common level of cybersecurity across the Union (NIS2 Directive).* Official Journal of the European Union, 27 December 2022.
+* European Commission. *Communication on a Cybersecurity Skills Academy, COM(2023) 207.* 18 April 2023.
+* European Commission. *Regulation (EU) 2025/38 of the European Parliament and of the Council laying down measures to strengthen solidarity and capacities in the Union (EU Cyber Solidarity Act).* 19 December 2024; entered into force 4 February 2025.
+* World Economic Forum. *Global Cybersecurity Outlook 2025*. January 2025.
+
 
