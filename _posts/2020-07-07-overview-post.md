@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI and Cybersecurity: Europe's Growing Reckoning
+title: "AI and Cybersecurity: Europe's Growing Reckoning"
 author: Santa Laukmane
 tags: [cybersecurity, ai, europe]
 toc: true
