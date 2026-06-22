@@ -7,7 +7,7 @@ toc: true
 ---
 
 Europe's approach to cybersecurity has, for years, moved at the pace of policy: measured, 
-considered, shaped by committees and review cycles. That is not a criticism. It reflects 
+considered, shaped by committees and review cycles. That is not criticism. It reflects 
 how the region prefers to govern technology, carefully and with broad consensus. The 
 difficulty is that the threats this framework is designed to address operate on a very 
 different timeline. 
