@@ -7,7 +7,7 @@ navbar_entries:
   url: projects
 
 - title: Articles
-  url: blog
+  url: articles
 
 project_entries:
 
