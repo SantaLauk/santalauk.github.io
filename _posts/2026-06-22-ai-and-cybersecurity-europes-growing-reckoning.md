@@ -170,8 +170,6 @@ enough to matter.
 
 ### Sources 
 
-## Sources
-
 * ENISA. *ENISA Threat Landscape 2025*. European Union Agency for Cybersecurity, 1 October 2025.
 * ENISA. *NIS Investments 2025*. European Union Agency for Cybersecurity, 8 December 2025.
 * ENISA. *Report on the State of Cybersecurity in the Union*. European Union Agency for Cybersecurity, 3 December 2024.
