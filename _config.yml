@@ -7,7 +7,7 @@ description: > # description of the site (multiple lines allowed)
   Portfolio documenting projects, research, and articles on cybersecurity,
   AI governance, DORA, NIS2, and European digital policy.
 
-permalink: /:slug
+permalink: /:title/
 
 twitter:
  # username:  # update or delete this
