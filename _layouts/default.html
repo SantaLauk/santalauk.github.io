@@ -5,10 +5,8 @@
     {%- if site.theme_config.show_progress_bar and page.layout == "post" -%}
       {% include progress_bar.html %}
     {%- endif -%}
-   {% if site.theme_config.show_navbar == true %}
-    {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-    <div class="dashed"></div>
-   {% endif %}
+<main class="page-content" aria-label="Content">
+  <div class="w">
         {{ content }}
         {% if site.theme_config.appearance_toggle %}
           {% include toggle_theme_button.html %}
