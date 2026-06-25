@@ -1,10 +1,9 @@
 ---
-layout: home
+layout: default
 title: Projects
 permalink: /projects/
-
-show_projects: true
-show_blog: false
-show_misc_list: false
-show_old_projects: false
 ---
+
+# Projects
+
+{% include card_list.html collection=site.data.home.project_entries %}
