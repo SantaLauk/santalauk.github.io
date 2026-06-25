@@ -2,9 +2,6 @@
 layout: default
 ---
 
-{% include horizontal_list.html collection=site.data.home.navbar_entries %}
-<div class="dashed"></div>
-
 <header>
   <h1>Articles</h1>
   <p>
