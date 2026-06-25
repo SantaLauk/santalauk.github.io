@@ -1,5 +1,8 @@
 navbar_entries:
 
+- title: Home
+  url: /
+
 - title: About
   url: /about/
 
