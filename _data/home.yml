@@ -1,13 +1,13 @@
 navbar_entries:
 
 - title: About
-  url: about
+  url: /about/
 
 - title: Projects
-  url: projects
+  url: /projects/
 
 - title: Articles
-  url: articles
+  url: /articles/
 
 project_entries:
 
