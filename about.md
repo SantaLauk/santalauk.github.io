@@ -3,8 +3,6 @@ layout: post
 title: About Me
 ---
 
-# About Me
-
 Hi, I'm Santa.
 
 I'm a cybersecurity professional with a particular interest in information security governance, risk management, emerging technologies, and the intersection of technology and public policy. My goal is to build a career helping organisations understand complex risks and implement practical, effective security solutions.
