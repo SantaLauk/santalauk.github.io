@@ -1,15 +1,18 @@
 ---
 layout: default
 ---
-<a href="javascript:history.back()" class="back-link" aria-label="Go back">
-  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<a href="/" class="back-link" aria-label="Go to home">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+       stroke="currentColor" stroke-width="2"
+       stroke-linecap="round" stroke-linejoin="round">
     <polyline points="15 18 9 12 15 6"></polyline>
   </svg>
 </a>
 
 <header>
   <h1>Articles</h1>
-  <p>Browse my research and writing on cybersecurity, AI governance, digital resilience, and European regulation.</p>
+  <p>Browse my research and writing on cybersecurity, AI governance,
+     digital resilience, and European regulation.</p>
 </header>
 
 {% include post_list.html %}
